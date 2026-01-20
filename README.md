@@ -7,7 +7,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java"/>
 </p>
 
----
+
 
 <h1 align="center"> 🛠️ Ferramentas </h1>
 
@@ -17,7 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git"/>
 </p>
 
----
+
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCombinato&layout=compact&theme=tokyonight"/>
