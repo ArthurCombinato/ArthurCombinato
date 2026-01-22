@@ -21,7 +21,8 @@
 
 <p align="center">
   <img
-    height="200em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCombinato&layout=compact&theme=tokyonight&langs_count=10&hide_border=true"
+    height="160em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCombinato&layout=compact&theme=tokyonight&langs_count=12&hide_border=true&cache_seconds=1800"
   />
 </p>
+
