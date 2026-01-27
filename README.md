@@ -20,10 +20,8 @@
 
 
 <p align="center">
-  <img
-    height="160em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCombinato&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&exclude_repo=ArthurCombinato"
-  />
+  <img height="165em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCombinato&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook"/>
 </p>
 
 
